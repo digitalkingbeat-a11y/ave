@@ -1,0 +1,5 @@
+{
+  "name": "Aave Flash Loan Solidity Generator",
+  "description": "An application to generate a basic Aave V3 Flash Loan Solidity smart contract. Users can specify the contract name, loan asset, and amount, then use Gemini to get an explanation of the generated code.",
+  "requestFramePermissions": []
+}
